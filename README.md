@@ -16,4 +16,4 @@ You can see the issue after clicking on the same row and the Edit Button twice.
 
 Possible updates:
 The project can be expanded by adding LogIn Window before seeing the Main Window, and the user will be able to edit or see other users only if the role is ADMIN and the user is logged with correct username and password.
-Can be added samo more features, also.
+Can be added some more features, also.
