@@ -1,0 +1,20 @@
+﻿UI
+1.0.0.0
+
+winexe
+C#
+.cs
+D:\TU-SOFIA\3 KURS\6 SEMESTAR\PS\StudentInformationSystem\UI\obj\Debug\net6.0-windows\
+UI
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+D:\TU-SOFIA\3 KURS\6 SEMESTAR\PS\StudentInformationSystem\UI\App.xaml
+5976465993
+
+111159641813
+214820599168
+Components\StudentsList.xaml;Windows\EditingWindow.xaml;Windows\MainWindow.xaml;Windows\PasswordInsert.xaml;Windows\PromptDialog.xaml;
+
+True
+
